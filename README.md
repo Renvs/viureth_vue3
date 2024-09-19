@@ -1,29 +1,27 @@
-# viureth_1.1
+# **Viureth Project** (Revamped :screwdriver:)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Project Set-Up
 
-## Recommended IDE Setup
+  1. Clone the Repository  
+  Use the following command to clone the repository:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+  ```bash
+  git clone <repository-url>
+  ```
+  
+  2. Install Dependencies  
+  Navigate to the project folder and run the following command to install dependencies:
 
-## Customize configuration
+  ```bash
+  npm i
+  ```
+  
+  3. Start the Project  
+  To start the development server, run:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+  ```bash
+  npm run dev
+  ```
+  
+  ## Happy Coding! 🚀
+  
